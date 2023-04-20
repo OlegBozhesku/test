@@ -1,3 +1,3 @@
 create file
 123
-create and print
+create and print Привет
